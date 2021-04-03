@@ -1,0 +1,53 @@
+
+  [
+  {
+      "Name":"Why LumaFusion",
+      "ImageURL":"https://momofilmfest.com/wp-content/uploads/2019/04/LumaFusion-2.0-Track-headers-e1555050437330.jpg",
+      "Content":"Available to use on iPhones and iPads, LumaFusion is a mobile video editing powerhouse with an intuitive, easy-to-understand UI/UX. From cutting a video to exporting directly to YouTube, LumaFusion offers a whole video editing experience that you can easily use anywhere. "
+   },
+   {
+      "Name":"My Experience with LumaFusion",
+      "ImageURL":"https://pbblogassets.s3.amazonaws.com/uploads/2021/02/09113337/IMG_0065-1.jpg",
+      "Content":"Video editors that want a lean and portable editing app should give LumaFusion a try. And, beginners wanting to learn how to edit video should seriously consider it before jumping off the deep end with more advanced software."
+   },
+   {
+      "Name":"LumaFusion’s Best Features",
+      "ImageURL":"https://pbblogassets.s3.amazonaws.com/uploads/2021/02/09113550/cache-1.jpg",
+      "Content":"At first, it may seem like editing video on a mobile device is a bad idea—too slow, cumbersome, and lacking advanced features. That may be so for the dozens of video editing apps on Apple’s App Store, except that LumaFusion is actually good. "
+   },
+   {
+      "Name":"SPEED",
+      "ImageURL":"https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1516800/settings_images/dk4D7jOzRI68h2scaWHg_Speed.jpg",
+      "Content":"LumaTouch’s premium $30 video editing app is on the higher end of iOS apps, but it’s still several magnitudes more affordable than Premiere Pro, Final Cut Pro, and DaVinci Resolve Studio. While professional NLEs offer advanced features, LumaFusion punches above its weight at a much lower price point, offering a competitive alternative with comparable features found in expensive NLEs. "
+   },
+   {
+      "Name":"My Experience with LumaFusion",
+      "ImageURL":"https://pbblogassets.s3.amazonaws.com/uploads/2021/02/09113337/IMG_0065-1.jpg",
+      "Content":"I recently upgraded to the iPad Air 4th Gen, which uses Apple’s brand-new A14 Bionic chip. The iPad is great, sure, but my experience with LumaFusion has been eye-opening.I haven’t had to wait for the timeline to load, even when opening the app after it’s been closed for several hours or days. Scrubbing the timeline is also incredibly fast, and I haven’t experienced the waiting, freezing, or crashing that’s common on other video editing software. Rendering and exporting is also fast, and it’s possible to upload the video directly to YouTube, eliminating a whole step in my workflow. "
+   },
+   {
+      "Name":"My Experience with LumaFusion",
+      "ImageURL":"https://pbblogassets.s3.amazonaws.com/uploads/2021/02/09113337/IMG_0065-1.jpg",
+      "Content":"After editing two videos on LumaFusion during the past few weeks, it’s quickly become my favorite way to edit video. I can cut the video together, edit, color correct, add special effects, adjust the sound, and more from my iPad, which I never thought I could do from a tablet. And, by using a keyboard, I can switch between touch controls and keyboard/trackpad."
+   },
+   {
+      "Name":"LumaFusion’s Best Features",
+      "ImageURL":"https://pbblogassets.s3.amazonaws.com/uploads/2021/02/09113550/cache-1.jpg",
+      "Content":"When I got my iPad, I didn’t think I’d be editing many videos on the device. But, that’s changed now, so I’ve had to get creative to work around my modest 64GBs of storage. Luckily, LumaFusion allows you to playback media from an external SSD, which I’ve been doing. I’ve been storing all my footage on a PNY 500GB portable SSD that I got explicitly for this purpose. However, there’s a catch. "
+   },
+   {
+      "Name":"LumaFusion’s Best Features",
+      "ImageURL":"https://pbblogassets.s3.amazonaws.com/uploads/2021/02/09113550/cache-1.jpg",
+      "Content":"Instead of working off the SDD, which is what I thought would happen, LumaFusion saves the entirety of each clip that’s used on the timeline. For example, if you use a few seconds of a minute-long video, LumaFusion saves, or caches, the whole video on the iPad’s internal storage. The only real way to work off an SSD is by using a Gnarbox or Western Digital’s Wireless SSD, which is all done wirelessly. Those two options, though, can be as expensive as an iPad. "
+   },
+   {
+      "Name":"SPEED",
+      "ImageURL":"https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1516800/settings_images/dk4D7jOzRI68h2scaWHg_Speed.jpg",
+      "Content":"If you've been editing video for a while, you might be under the impression that a good laptop or desktop will run circles around the iPad Pro using LumaFusion, but for general video editing, that simply isn't true!Let me explain why.There's a new format for recording and playing back video that camera manufactures and companies like Apple are starting to support.This new format is called H.265 or HEVC (High Efficiency Video Encoding). It's actually been around for many years, but only recently has it started being integrated into consumer cameras."
+   },
+   {
+      "Name":"SPEED",
+      "ImageURL":"https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1516800/settings_images/dk4D7jOzRI68h2scaWHg_Speed.jpg",
+      "Content":"The great thing about H.265 is that it's about twice as efficient as the previous video codec (H.264), meaning that you can record higher quality videos that take up less space on your devices.The only problem with this is that desktop and laptop computers are not optimized to playback and edit this new type of video.That means if you're going to be editing this new type of video (which most people are), you're going to need an even faster computer than before."
+   }
+]
